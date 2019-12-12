@@ -4,6 +4,7 @@
     height: 30rem;
     margin: auto;
     border-style: solid;
+    padding-right: 2.5rem;
 }
 
 .text-div {
@@ -24,4 +25,12 @@
     height: 20rem;
     float: right;
     border-style: solid;
+}
+
+.gridsquare{
+width: 2rem;
+height:2rem;
+float: left;
+border: .01rem solid black;
+background-color: #1ad1ff;
 }
